@@ -1,0 +1,65 @@
+
+
+@media (max-width:1520px) {
+    .fix-with {
+        width: 100%;
+        max-width: 100%;
+        margin: auto;
+    }
+}
+
+@media (max-width:1024px) {
+    .header-left {
+        width: 100%;
+        text-align: center;
+        margin-top: 6px;
+    }
+    .header-right {
+        width: 100%;
+    }
+    .header-right ul {
+        text-align: center;
+    }
+    .banner-text {
+        text-align: center;
+    }
+}
+
+@media (max-width:768px) {
+    .banner-text {
+        font-size: 13px;
+    }
+    .about-item {
+        width: 100%;
+        margin: 1%;
+    }
+    .banner-sec {
+        padding: 170px;
+    }
+}
+@media (max-width:576px) {
+    .profile-image {
+        width: 100%;
+        text-align: center;
+    }
+    .profile-text {
+        width: 100%;
+        text-align: center;
+    }
+    .about-item {
+        width: 98%;
+        margin: 1%;
+    }
+    .banner-sec {
+        padding: 150px;
+    }
+    .footer-icon {
+        width: 100%;
+        text-align: center;
+        margin-top: 15px;
+    }
+    .footer-text {
+        width: 100%;
+        text-align: center;
+    }
+}
